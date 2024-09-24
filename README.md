@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zakariyau Armiyau
 - 👀 I’m interested in Data cleaning, Manipulation, Querrying and Visualization.  
-- 🌱 I’m currently learning python for data analysis and machine learning
+- 🌱 I’m currently learning python for data analytics and machine learning
 - 💞️ I’m looking to collaborate on data analysis projects with various tools like Microsoft Excel, Power BI, Tableaux, SqL etc. 
 - 📫 How to reach me, i can be reached through my Zakariyauarmiyau@gmail.com, +234 8134221187.
 - 😄 Pronouns: Him
